@@ -1,2 +1,2 @@
-Personal Site
-My first site created with HTML and CSS
+# WebDev-My-Site
+ First Site with HTML and CSS only
